@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning & Artificial Intelligence
 - 🌱 I’m actively looking for Summer 2024 Internships!
 - 💞️ I’m looking to collaborate on projects related to ML, DL & AI
-- 📫 How to reach me  <br> Email id - chadhaakalbirsingh@gmail.com <br> Linkedin - https://www.linkedin.com/in/akalbir-singh-chadha-503218195
+- 📫 How to reach me  <br> Email id - chadhaakalbirsingh@gmail.com <br> 
 
 <!---
 Akalbir17/Akalbir17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
