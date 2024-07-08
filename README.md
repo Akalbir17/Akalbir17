@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 -->
 
 <h3>
-  
 -🔭 I'm currently a Artificial Intelligence Engineering 
 -🌱 I'm currently learning advanced techniques in Generative AI, NLP, and Recommender Systems
 -👯 I'm looking to collaborate on projects involving Generative AI, LLM's, and AI applications!
