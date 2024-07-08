@@ -2,7 +2,7 @@
 
 <img class="fit-picture" align="right"
      width="400" height="400"
-     src="F:\Github and Website.jpeg">
+     src="https://imgur.com/a/sDZ9GvC">
 <h1 align="center">About me! 🚀</h1>
 
 <!--
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
      <br>
 - ⚡ Fun fact: I love talking about Geopolitics & History  <br>
      <br>
-- ✍🏼 Checkout my blog: [here](https://akalbir.medium.com/)  <br>
+- ✍🏼 Checkout my blog: [here](https://akalbir.medium.com/)
 </h3>
 <br />
 <br>
