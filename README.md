@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! I'm Akalbir Singh Chadha 👋 </h1>
 
 <img class="fit-picture" align="right"
-     width="1024" height="1024"
-     src="https://imgur.com/eVA9Tch">
+     width="400" height="400"
+     src="https://i.imgur.com/eVA9Tch.jpg">
 <h1 align="center">About me! 🚀</h1>
 
 <!--
