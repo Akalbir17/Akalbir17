@@ -10,14 +10,14 @@ Here are some ideas to get you started:
 -->
 
 <h3>
--🔭 I'm currently a Artificial Intelligence Engineering 
--🌱 I'm currently learning advanced techniques in Generative AI, NLP, and Recommender Systems
--👯 I'm looking to collaborate on projects involving Generative AI, LLM's, and AI applications!
--💬 Ask me about Python, TensorFlow, PyTorch, and scikit-learn!
--🤖 Passionate about leveraging AI to solve real-world problems and create intelligent systems
--📚 Always eager to learn and explore new advancements in the field of Artificial Intelligence
--🧠 Interested in areas such as Computer Vision, Natural Language Processing, and Generative Models
--🚀 Excited about the potential of AI to revolutionize various industries and drive innovation
+- 🔭 I'm currently a Artificial Intelligence Engineering\n 
+- 🌱 I'm currently learning advanced techniques in Generative AI, NLP, and Recommender Systems\n
+- 👯 I'm looking to collaborate on projects involving Generative AI, LLM's, and AI applications!\n
+- 💬 Ask me about Python, TensorFlow, PyTorch, and scikit-learn!\n
+- 🤖 Passionate about leveraging AI to solve real-world problems and create intelligent systems\n
+- 📚 Always eager to learn and explore new advancements in the field of Artificial Intelligence\n
+- 🧠 Interested in areas such as Computer Vision, Natural Language Processing, and Generative Models\n
+- 🚀 Excited about the potential of AI to revolutionize various industries and drive innovation\n
 - 📫 How to reach me: On any of my socials
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love talking about Geopolitics & History
