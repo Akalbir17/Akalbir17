@@ -2,7 +2,8 @@
 
 <img class="fit-picture" align="right"
      width="400" height="400"
-     src="https://i.imgur.com/iigzIrT.png">
+     src="![Github and Website](https://github.com/Akalbir17/Akalbir17/assets/69676151/c2be7858-87bc-4f55-bb7e-0533a2cfe193)
+">
 <h1 align="center">About me! 🚀</h1>
 
 <!--
