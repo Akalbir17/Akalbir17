@@ -11,16 +11,27 @@ Here are some ideas to get you started:
 
 <h3>
 - 🔭 I'm currently a Artificial Intelligence Engineering  <br>
+     <br>
 - 🌱 I'm currently learning advanced techniques in Generative AI, NLP, and Recommender Systems  <br>
+     <br>
 - 👯 I'm looking to collaborate on projects involving Generative AI, LLM's, and AI applications!  <br>
+     <br>
 - 💬 Ask me about Python, TensorFlow, PyTorch, and scikit-learn!  <br>
+     <br>
 - 🤖 Passionate about leveraging AI to solve real-world problems and create intelligent systems  <br>
+     <br>
 - 📚 Always eager to learn and explore new advancements in the field of Artificial Intelligence  <br>
+     <br>
 - 🧠 Interested in areas such as Computer Vision, Natural Language Processing, and Generative Models  <br>
+     <br>
 - 🚀 Excited about the potential of AI to revolutionize various industries and drive innovation  <br>
+     <br>
 - 📫 How to reach me: On any of my socials  <br>
+     <br>
 - 😄 Pronouns: He/Him  <br>
+     <br>
 - ⚡ Fun fact: I love talking about Geopolitics & History  <br>
+     <br>
 - ✍🏼 Checkout my blog: [here](https://akalbir.medium.com/)  <br>
 </h3>
 <br />
