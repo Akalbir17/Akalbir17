@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Akalbir Singh Chadha 👋</h1>
 
-<img class="fit-picture" align="right" width="400" height="400" src="https://i.imgur.com/eVA9Tch.jpg" alt="Turban Man">
+<img class="fit-picture" align="right" width="500" height="300" src="https://i.imgur.com/eVA9Tch.jpg" alt="My Avatar">
 
 ## About me! 🚀
 
