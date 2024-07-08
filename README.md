@@ -10,18 +10,18 @@ Here are some ideas to get you started:
 -->
 
 <h3>
-- 🔭 I'm currently a Artificial Intelligence Engineering  
-- 🌱 I'm currently learning advanced techniques in Generative AI, NLP, and Recommender Systems  
-- 👯 I'm looking to collaborate on projects involving Generative AI, LLM's, and AI applications!  
-- 💬 Ask me about Python, TensorFlow, PyTorch, and scikit-learn!  
-- 🤖 Passionate about leveraging AI to solve real-world problems and create intelligent systems  
-- 📚 Always eager to learn and explore new advancements in the field of Artificial Intelligence  
-- 🧠 Interested in areas such as Computer Vision, Natural Language Processing, and Generative Models  
-- 🚀 Excited about the potential of AI to revolutionize various industries and drive innovation  
-- 📫 How to reach me: On any of my socials  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love talking about Geopolitics & History  
-- ✍🏼 Checkout my blog: [here](https://akalbir.medium.com/)  
+- 🔭 I'm currently a Artificial Intelligence Engineering  <br>
+- 🌱 I'm currently learning advanced techniques in Generative AI, NLP, and Recommender Systems  <br>
+- 👯 I'm looking to collaborate on projects involving Generative AI, LLM's, and AI applications!  <br>
+- 💬 Ask me about Python, TensorFlow, PyTorch, and scikit-learn!  <br>
+- 🤖 Passionate about leveraging AI to solve real-world problems and create intelligent systems  <br>
+- 📚 Always eager to learn and explore new advancements in the field of Artificial Intelligence  <br>
+- 🧠 Interested in areas such as Computer Vision, Natural Language Processing, and Generative Models  <br>
+- 🚀 Excited about the potential of AI to revolutionize various industries and drive innovation  <br>
+- 📫 How to reach me: On any of my socials  <br>
+- 😄 Pronouns: He/Him  <br>
+- ⚡ Fun fact: I love talking about Geopolitics & History  <br>
+- ✍🏼 Checkout my blog: [here](https://akalbir.medium.com/)  <br>
 </h3>
 <br />
 <br>
