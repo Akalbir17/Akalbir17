@@ -1,12 +1,10 @@
 <h1 align="center">Hi there! I'm Akalbir Singh Chadha 👋</h1>
 
-<img class="fit-picture" align="right" width="100" height="100" src="https://i.imgur.com/eVA9Tch.jpg" alt="My Avatar">
+
 
 ## About me! 🚀
 
-<!--
-Here are some ideas to get you started:
--->
+<img class="fit-picture" align="right" width="400" height="400" src="https://i.imgur.com/eVA9Tch.jpg" alt="My Avatar">
 
 <h3>
 - 🔭 I'm currently a Artificial Intelligence Engineering  <br>
