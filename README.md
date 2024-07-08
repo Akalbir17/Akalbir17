@@ -2,9 +2,7 @@
 
 <img class="fit-picture" align="right"
      width="400" height="400"
-     src="![Github and Website](https://github.com/Akalbir17/Akalbir17/assets/69676151/c2be7858![Github and Website](https://github.com/Akalbir17/Akalbir17/assets/69676151/212f7a6e-2f25-4538-9c7c-c9db1b31304e)
--87bc-4f55-bb7e-0533a2cfe193)
-">
+     src="F:\Github and Website.jpeg">
 <h1 align="center">About me! 🚀</h1>
 
 <!--
