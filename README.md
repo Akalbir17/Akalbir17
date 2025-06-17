@@ -7,7 +7,7 @@
 <img class="fit-picture" align="right" width="400" height="400" src="https://i.imgur.com/eVA9Tch.jpg" alt="My Avatar">
 
 <h3>
-- 🔭 I'm currently a Artificial Intelligence Engineering  <br>
+- 🔭 I'm currently an Artificial Intelligence Engineer  <br>
      <br>
 - 🌱 I'm currently learning advanced techniques in Generative AI, NLP, and Recommender Systems  <br>
      <br>
